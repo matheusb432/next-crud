@@ -1,3 +1,7 @@
+# next-crud
+
+- A simple CRUD app built with Next.JS, and Firestore for the backend, by following a tutorial.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
